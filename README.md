@@ -17,14 +17,6 @@ https://ggnbwhiteboard.rocks/
 
 https://youtu.be/m4VAdPI4e_U
 
-## Team Members
-
-| First Name | Last Name |Student Number |
-|------------|-----------|---------------|
-| Hongming   | Li        | 1004135624    |
-| Diego      | He        | 1004264547    |
-| Han-Shin   | Chen      | 1005403957    |
-
 ##### Note: How to run the app is at the bottom of the file.
 ---
 
